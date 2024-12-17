@@ -1,1 +1,12 @@
-*.aof
+# Binary files
+redis-server
+
+# AOF file
+database.aof
+
+# Docker volumes
+data/
+
+# IDE files
+.idea/
+.vscode/
