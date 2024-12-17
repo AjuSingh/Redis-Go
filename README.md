@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GO_BUILD.png" width="150">
-  <img src="https://raw.githubusercontent.com/redis/redis/unstable/redis.png" width="150">
+    <img src="https://redis.com/wp-content/uploads/2021/08/redis-logo.png" width="200">
 </div>
 
 ## Overview
