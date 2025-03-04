@@ -1,2 +1,3 @@
 2025-03-01T10:00:00 - Initial commit: setup Go project structure
 2025-03-03T14:20:00 - Add basic TCP server using net package
+2025-03-04T09:45:00 - Implement RESP parser for Redis protocol
