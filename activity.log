@@ -2,3 +2,4 @@
 2025-03-03T14:20:00 - Add basic TCP server using net package
 2025-03-04T09:45:00 - Implement RESP parser for Redis protocol
 2025-03-06T11:15:00 - Add in-memory key-value store logic
+2025-03-08T16:40:00 - Support basic SET and GET commands
