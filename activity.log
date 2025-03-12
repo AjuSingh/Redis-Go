@@ -4,3 +4,4 @@
 2025-03-06T11:15:00 - Add in-memory key-value store logic
 2025-03-08T16:40:00 - Support basic SET and GET commands
 2025-03-10T13:00:00 - Add DEL and EXISTS command support
+2025-03-12T15:30:00 - Implement HSET and HGET for hash type
